@@ -62,6 +62,16 @@ The Lost & Found CLI provides the following functionalities:
 
     ---
 
+### Example Usage
+--- Lost & Found CLI ---
+1. Register User
+2. Report Lost Item
+3. Report Found Item
+4. View All Items
+5. Exit
+
+---
+
 ## Data Model
 **User**
 
